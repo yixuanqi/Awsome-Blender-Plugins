@@ -1,0 +1,24 @@
+schema_version = "1.0.0"
+id = "Auto_Highlight_in_Outliner"
+version = "3.8.5"
+name = "Auto Highlight in Outliner"
+tagline = "Automatically highlight selected objects in the outliner"
+maintainer = "Amandeep"
+type = "add-on"
+website = "https://blendermarket.com/products/auto-highlight-in-outliner"
+tags = ["Object","Scene","User Interface"]
+
+blender_version_min = "3.5.0"
+
+
+# License conforming to https://spdx.org/licenses/ (use "SPDX: prefix)
+# https://docs.blender.org/manual/en/dev/advanced/extensions/licenses.html
+license = [
+  "SPDX:GPL-2.0-or-later",
+]
+copyright = [
+    "2024 Amandeep",
+]
+
+[permissions]
+network = "To check for addons updates"
